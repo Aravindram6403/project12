@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-size: larger;
+    background-color: rgb(19, 215, 192);            
+background-size: 100%;}
+
+    #warp{
+        background-color: rgb(59, 221, 15);
+        width: 1200px;
+        height: 2500px;
+        margin: auto;
+    }
+
+    #flight{
+        width: 1000px;
+        height: 1500px;
+        background-color: rgb(18, 228, 165);
+    }
+    
+
+aside{
+    float: right;
+}
+
